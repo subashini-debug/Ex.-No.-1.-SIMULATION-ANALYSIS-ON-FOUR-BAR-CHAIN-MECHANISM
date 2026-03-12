@@ -45,19 +45,15 @@
 ###   3. Finally, calculate ωcd from the relation v = rω 
 ###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/97627fa4-0d38-412c-8745-082bd7b85299)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/15f7e50d-486d-46d0-bed0-8f51b36e7396)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
+## Input:
 
+  ![561116217-9732013b-a716-4995-b8db-a0a5acc51fae](https://github.com/user-attachments/assets/f52b77bc-bfaf-4833-b46f-41b57fcf49f5)
 
 ## Output:
-![561115463-a613f49b-6a5f-4ca2-a093-b598082bbe64](https://github.com/user-attachments/assets/73edaf24-ca82-4b1c-ac6e-caf0de52c47c)
+<img width="1920" height="1080" alt="Screenshot (226)" src="https://github.com/user-attachments/assets/7103d4dd-0fde-4ca0-b0de-2b3429186d72" />
 
-![561115933-c1c6844b-55e2-435c-b162-baf698e59dce](https://github.com/user-attachments/assets/3f69c381-7d90-44dc-aac4-1faf025e060c)
-
-![561116217-9732013b-a716-4995-b8db-a0a5acc51fae](https://github.com/user-attachments/assets/f52b77bc-bfaf-4833-b46f-41b57fcf49f5)
 
 ### Name: Subashini K
 ### Register Number: 212225240160
